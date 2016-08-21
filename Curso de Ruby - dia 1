@@ -1,0 +1,80 @@
+Explicação de conceitos basicos do ruby
+Qual versão usar
+RVM cuida da instalação e da versão.
+
+===PUTS
+
+puts "opa" (sempre em aspas duplas )
+puts sempre retornar um nil depois de imprimir a mensagem 
+
+caso deixe um ponto(.) no final ele espera um comando
+
+===GETS
+
+
+
+
+===Variaveis
+
+
+===Concatenar
+
+palavra_pt é uma variável string 
+
+
+modo errado
+puts "Em Português: " + palavra_pt  
+
+ modo correto
+puts "Em Português: #{palavra_pt}"  
+
+
+
+Convert
+
+.to_i
+
+Obs.
+
+"- 50".to_i  resultado: 
+
+"-50".to_i  resultado:
+
+
+
+chomp
+
+gets.chomp  o chomp não mantem na mesma linha. Ou seja na hora de concatenar ele é muito util 
+
+
+
+Array
+
+
+
+HASH
+
+
+
+Each do 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
