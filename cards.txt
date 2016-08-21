@@ -1,0 +1,14 @@
+aaa -> bbbaaa -> ddd
+ddd -> ggg
+fffff -> tttt
+aaaa -> dsddssd
+errr -> tttt
+ddd -> fff
+aaa -> bbb
+hhh -> kkk
+edson -> freire
+edson -> freire
+edson -> freire
+legal -> cool
+freire -> edson
+freire -> edson
